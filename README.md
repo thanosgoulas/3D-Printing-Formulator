@@ -1,20 +1,27 @@
-## ⬇️ Download
+# The 3D Printing Formulator
 
-> **The 3D Printing Formulator is free to download and use for academic 
-> and non-commercial research purposes.**
-
-📦 **[Download the latest version (v1.0) here](https://doi.org/10.5281/zenodo.19321774)**
-
-> Requires Windows. No installation needed — just download and run the `.exe`.
+**Version 1.0** | Developed by Dr Athanasios Goulas | © 2026 All Rights Reserved
 
 ---
 
-# The 3D Printing Formulator
+## ⬇️ Download
 
-**Version 1.0**
+> **Free to download and use for academic and non-commercial research purposes.**
 
-A standalone desktop application for the design and optimisation of
-ceramic resin and paste formulations for 3D printing.
+📦 **[Download The 3D Printing Formulator v1.0](https://doi.org/10.5281/zenodo.19321774)**
+
+> **Installation:** No installation required. Download the `.zip` file,
+> extract it, and run `3D Printing Formulator.exe` directly.
+>
+> **System requirements:** Windows 10 or later.
+>
+> ⚠️ **Windows Security Note:** Windows may show a SmartScreen warning.
+> To proceed:
+> 1. Click **"More info"**
+> 2. Click **"Run anyway"**
+>
+> The software is safe and open source — you can verify the source code
+> directly in this repository.
 
 ---
 
@@ -31,10 +38,11 @@ ceramic resin and paste formulations for 3D printing.
 
 ## Description
 
-The 3D Printing Formulator is a desktop tool designed to assist
-researchers and practitioners in formulating ceramic resins and pastes
-for additive manufacturing. It provides a structured, user-friendly
-interface for calculating and optimising formulation parameters.
+The 3D Printing Formulator is a standalone desktop application designed
+to assist researchers and practitioners in formulating ceramic resins
+and pastes for additive manufacturing. It provides a structured,
+user-friendly interface for calculating and optimising formulation
+parameters.
 
 The tool works in two directions:
 
@@ -43,8 +51,11 @@ The tool works in two directions:
 - **Inverse Solver** — you decide the composition you want, the app
   calculates the amounts for you
 
-Additional features include a built-in Materials Database, PDF export,
-save/load functionality, and a comprehensive Help & User Guide.
+Additional features include:
+- Built-in Materials Database with editable entries
+- PDF export of results
+- Save/Load functionality for recipes
+- Comprehensive built-in Help & User Guide
 
 ---
 
@@ -57,43 +68,4 @@ save/load functionality, and a comprehensive Help & User Guide.
 ![Materials Database](Materials_Database.png)
 
 ### Help & User Guide
-![Help and User Guide](Help_Section.png)
-
----
-
-## Download
-
-The compiled Windows executable (.exe) is available for download via
-the Zenodo record:
-
-📦 📦 **[Download The 3D Printing Formulator v1.0](https://doi.org/10.5281/zenodo.15321774)**
-
----
-
-## Licence
-
-This software is released under a proprietary licence.
-See [LICENSE.txt](LICENSE.txt) for full terms.
-
-In summary:
-- ✅ Free to use for personal, academic and non-commercial research
-- ✅ Must be cited in any publication that uses it
-- ❌ No commercial use without written permission
-- ❌ No modification or redistribution without written permission
-- ❌ No claiming as institutional or project output
-
----
-
-## Citation
-
-If you use this software in your research, please cite it as:
-
-Goulas, A. (2026). The 3D Printing Formulator (v1.0).
-[Software]. https://doi.org/10.5281/zenodo.15321774
-
----
-
-## Contact
-
-For licensing, permissions, or enquiries, contact the Author directly:
-thanosgoulas@outlook.com
+![Help and User Guide
