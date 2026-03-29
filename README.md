@@ -1,3 +1,14 @@
+## ⬇️ Download
+
+> **The 3D Printing Formulator is free to download and use for academic 
+> and non-commercial research purposes.**
+
+📦 **[Download the latest version (v1.0) here](https://doi.org/10.5281/zenodo.19321774)**
+
+> Requires Windows. No installation needed — just download and run the `.exe`.
+
+---
+
 # The 3D Printing Formulator
 
 **Version 1.0**
