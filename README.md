@@ -52,4 +52,5 @@ Goulas, A. (2026). The 3D Printing Formulator (v1.0).
 
 ## Contact
 
-For licensing, permissions, or enquiries, contact the Author directly.
+For licensing, permissions, or enquiries contact the Author
+at: thanosgoulas@outlook.com
