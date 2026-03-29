@@ -1,4 +1,4 @@
-Copyright (c) 2026 Dr Athanasios Goulas. All rights reserved.
+Copyright (c) 2026 Dr Athanasios (Thanos) Goulas. All rights reserved.
 
 THE 3D PRINTING FORMULATOR — PROPRIETARY LICENCE
 Version 1.0
@@ -127,7 +127,7 @@ IN THE SOFTWARE.
 CONTACT
 
 For licensing, permissions, or enquiries contact the Author
-at a personal email address available upon request.
+at: thanosgoulas@outlook.com
 
 Dr Athanasios (Thanos) Goulas
 2026
