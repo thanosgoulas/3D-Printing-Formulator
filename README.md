@@ -52,6 +52,7 @@ The tool works in two directions:
   calculates the amounts for you
 
 Additional features include:
+
 - Built-in Materials Database with editable entries
 - PDF export of results
 - Save/Load functionality for recipes
@@ -68,4 +69,60 @@ Additional features include:
 ![Materials Database](Materials_Database.png)
 
 ### Help & User Guide
-![Help and User Guide
+![Help and User Guide](Help_Section.png)
+
+---
+
+## Example Formulations
+
+Two example recipe files from published research are available as a
+separate download alongside this release:
+
+📦 **Example Formulations.zip**
+
+Download, extract, and open the `.json` files using the 📂 Load button
+in the app. These examples demonstrate typical Inverse Solver workflows
+for ceramic resin formulations.
+
+**Example 1 — Alumina (Al₂O₃) DLP formulation:**
+Goulas et al. (2025). Enabling accessible additive manufacturing of alumina
+ceramics through formulation design. *Materials & Design*, 114601.
+https://doi.org/10.1016/j.matdes.2025.114601
+
+**Example 2 — 3YSZ DLP formulation:**
+Goulas et al. (2025). Formulation-driven additive manufacturing of 3YSZ
+advanced ceramics via digital light processing. *Open Ceramics*, 100785.
+https://doi.org/10.1016/j.oceram.2025.100785
+
+> If you use these formulations in your own work, please cite the
+> original publications as well as this software.
+
+---
+
+## Licence
+
+This software is released under a proprietary licence.
+See [LICENSE.txt](LICENSE.txt) for full terms.
+
+In summary:
+- ✅ Free to use for academic and non-commercial research purposes
+- ✅ Must be cited in any publication that uses it
+- ❌ No commercial use without written permission
+- ❌ No modification or redistribution without written permission
+- ❌ No claiming as institutional or project output
+
+---
+
+## Citation
+
+If you use this software in your research, please cite it as:
+
+Goulas, A. (2026). The 3D Printing Formulator (v1.0).
+[Software]. https://doi.org/10.5281/zenodo.19321774
+
+---
+
+## Contact
+
+For licensing, permissions, or enquiries contact the Author
+at: thanosgoulas@outlook.com
