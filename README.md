@@ -55,7 +55,7 @@ save/load functionality, and a comprehensive Help & User Guide.
 The compiled Windows executable (.exe) is available for download via
 the Zenodo record:
 
-📦 **[Download The 3D Printing Formulator v1.0](https://doi.org/[DOI TO BE ADDED])**
+📦 📦 **[Download The 3D Printing Formulator v1.0](https://doi.org/10.5281/zenodo.15321774)**
 
 ---
 
@@ -78,7 +78,7 @@ In summary:
 If you use this software in your research, please cite it as:
 
 Goulas, A. (2026). The 3D Printing Formulator (v1.0).
-[Software]. https://doi.org/[DOI TO BE ADDED UPON ZENODO RELEASE]
+[Software]. https://doi.org/10.5281/zenodo.15321774
 
 ---
 
