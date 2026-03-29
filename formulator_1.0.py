@@ -1,12 +1,11 @@
 # =============================================================================
-#  formulator_delta.py
+#  formulator_1.0.py
 #
 #  The 3D Printing Formulator  —  v1.0
 #  A desktop recipe calculator for ceramic resin / paste formulations
 #  used in Vat Photopolymerisation and Direct Ink Writing 3D printing.
 #
 #  Author:      Dr Athanasios (Thanos) Goulas
-#  Affiliation: 
 #  Contact:     thanosgoulas@outlook.com
 #
 #  Version 1.0  —  2026
