@@ -104,7 +104,7 @@ Any academic publication, report, presentation, poster, or other
 work that makes use of this Software must cite it as follows:
 
   Goulas, A. (2026). The 3D Printing Formulator (v1.0).
-  [Software]. https://doi.org/[DOI TO BE ADDED UPON ZENODO RELEASE]
+  [Software]. https://doi.org/10.5281/zenodo.15321774
 
 Failure to cite this Software appropriately in academic or
 professional communications constitutes a breach of this licence.
