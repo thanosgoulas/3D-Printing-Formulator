@@ -1,0 +1,1454 @@
+[
+  {
+    "acronym": "10YSZ",
+    "name": "10 mol.% Y2O3-stabilised ZrO2",
+    "density": 5.7,
+    "ri": 2.14,
+    "mw": 123.22
+  },
+  {
+    "acronym": "12YSZ",
+    "name": "12 mol.% Y2O3-stabilised ZrO2",
+    "density": 5.6,
+    "ri": 2.13,
+    "mw": 123.22
+  },
+  {
+    "acronym": "316L Stainless Steel",
+    "name": "Fe\u2013Cr18\u2013Ni12\u2013Mo2.5\u2013Mn2, Low Carbon",
+    "density": 7.98,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "3YSZ",
+    "name": "3 mol.% Y2O3-stabilised ZrO2",
+    "density": 6.05,
+    "ri": 2.17,
+    "mw": 123.22
+  },
+  {
+    "acronym": "4YSZ",
+    "name": "4 mol.% Y2O3-stabilised ZrO2",
+    "density": 5.98,
+    "ri": 2.17,
+    "mw": 123.22
+  },
+  {
+    "acronym": "5YSZ",
+    "name": "5 mol.% Y2O3-stabilised ZrO2",
+    "density": 5.96,
+    "ri": 2.165,
+    "mw": 123.22
+  },
+  {
+    "acronym": "8YSZ",
+    "name": "8 mol.% Y2O3-stabilised ZrO2",
+    "density": 5.9,
+    "ri": 2.15,
+    "mw": 123.22
+  },
+  {
+    "acronym": "ABD",
+    "name": "Poly(oxy-1,2-ethanediyl) Aminobenzoate",
+    "density": 1.1,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ACMO",
+    "name": "4-Acryloylmorpholine",
+    "density": 1.122,
+    "ri": 1.512,
+    "mw": 141.17
+  },
+  {
+    "acronym": "ACMO 10% / HDDA 45% / TMPTA 45%",
+    "name": "",
+    "density": 1.0633,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ACMO 10% / HDDA 50% / TMP(EO)3TA 50% 90%",
+    "name": "",
+    "density": 1.0637,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Ag",
+    "name": "Silver",
+    "density": 10.49,
+    "ri": null,
+    "mw": 107.87
+  },
+  {
+    "acronym": "Ag2Mo2O7",
+    "name": "Silver Dimolybdate",
+    "density": 5.96,
+    "ri": null,
+    "mw": 511.61
+  },
+  {
+    "acronym": "Ag2MoO4",
+    "name": "Silver Molybdate",
+    "density": 6.19,
+    "ri": null,
+    "mw": 375.67
+  },
+  {
+    "acronym": "Al",
+    "name": "Aluminium",
+    "density": 2.7,
+    "ri": null,
+    "mw": 26.98
+  },
+  {
+    "acronym": "Al2O3",
+    "name": "Alumina (Corundum)",
+    "density": 3.98,
+    "ri": 1.765,
+    "mw": 101.96
+  },
+  {
+    "acronym": "Al2O3 95.1% / SiC 4.9%",
+    "name": "",
+    "density": 3.9338,
+    "ri": null,
+    "mw": null,
+    "blend_components": [
+      {
+        "acronym": "Al2O3",
+        "wt_pct": 95.1
+      },
+      {
+        "acronym": "SiC",
+        "wt_pct": 4.9
+      }
+    ]
+  },
+  {
+    "acronym": "AlN",
+    "name": "Aluminum Nitride",
+    "density": 3.26,
+    "ri": 2.1,
+    "mw": 40.99
+  },
+  {
+    "acronym": "ALS",
+    "name": "Ammonium Lauryl Sulfate (Ammonium Dodecyl Sulfate)",
+    "density": 1.059,
+    "ri": null,
+    "mw": 283.43
+  },
+  {
+    "acronym": "ATZ 60/40",
+    "name": "60vol%ZrO2\u201340vol%Al2O3",
+    "density": 5.222,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ATZ 70/30",
+    "name": "70vol%ZrO2\u201330vol%Al2O3",
+    "density": 5.429,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ATZ 75/25",
+    "name": "75vol%ZrO2\u201325vol%Al2O3",
+    "density": 5.532,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ATZ 80/20",
+    "name": "80vol%ZrO2\u201320vol%Al2O3",
+    "density": 5.636,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ATZ 90/10",
+    "name": "90vol%ZrO2\u201310vol%Al2O3",
+    "density": 5.843,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Au",
+    "name": "Gold",
+    "density": 19.3,
+    "ri": null,
+    "mw": 196.97
+  },
+  {
+    "acronym": "BaCO3",
+    "name": "Barium Carbonate (Witherite)",
+    "density": 4.29,
+    "ri": 1.676,
+    "mw": 197.34
+  },
+  {
+    "acronym": "BAPO",
+    "name": "Bis(2,4,6-trimethylbenzoyl)phenylphosphine oxide",
+    "density": 1.19,
+    "ri": null,
+    "mw": 418.41
+  },
+  {
+    "acronym": "BaTiO3",
+    "name": "Barium Titanate",
+    "density": 6.02,
+    "ri": 2.4,
+    "mw": 233.19
+  },
+  {
+    "acronym": "BDK",
+    "name": "2,2-Dimethoxy-2-phenylacetophenone",
+    "density": 1.19,
+    "ri": null,
+    "mw": 256.3
+  },
+  {
+    "acronym": "BDMM",
+    "name": "2-Benzyl-2-(dimethylamino)-1-(4-morpholinophenyl)butanone",
+    "density": 1.13,
+    "ri": null,
+    "mw": 368.47
+  },
+  {
+    "acronym": "BEDA",
+    "name": "1,4-Butanediol Ethylene Oxide Diacrylate",
+    "density": 1.05,
+    "ri": 1.454,
+    "mw": 214.26
+  },
+  {
+    "acronym": "BF-BT",
+    "name": "0.7BiFeO3\u20130.3BaTiO3, MPB",
+    "density": 7.66,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "BMS",
+    "name": "4-Benzoyl-4'-methyldiphenyl Sulphide",
+    "density": 1.2,
+    "ri": null,
+    "mw": 320.43
+  },
+  {
+    "acronym": "BP",
+    "name": "Benzophenone",
+    "density": 1.11,
+    "ri": 1.611,
+    "mw": 182.22
+  },
+  {
+    "acronym": "BPA(EO)10DMA",
+    "name": "Bisphenol A Ethoxylate (10) Dimethacrylate",
+    "density": 1.13,
+    "ri": 1.511,
+    "mw": 804.94
+  },
+  {
+    "acronym": "BPA(EO)4DA",
+    "name": "Bisphenol A Ethoxylate (4) Diacrylate",
+    "density": 1.13,
+    "ri": 1.537,
+    "mw": 512.55
+  },
+  {
+    "acronym": "BPA(EO)4DMA",
+    "name": "Bisphenol A Ethoxylate (4) Dimethacrylate",
+    "density": 1.14,
+    "ri": 1.535,
+    "mw": 540.58
+  },
+  {
+    "acronym": "BYK-W 969",
+    "name": "Hydroxy-functional Alkylammonium Salt of Acidic Copolymer",
+    "density": 1.09,
+    "ri": 1.52,
+    "mw": null
+  },
+  {
+    "acronym": "BYK-W 980",
+    "name": "Salt of Unsaturated Polyamine Amides and Acidic Polyesters",
+    "density": 0.99,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "BYKJET-9142",
+    "name": "Polymeric Carboxylic Acid Ester",
+    "density": 1.01,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "BZT",
+    "name": "Ba(Zr0.2Ti0.8)O3",
+    "density": 6.09,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "CaCO3",
+    "name": "Calcium Carbonate (Calcite)",
+    "density": 2.71,
+    "ri": 1.66,
+    "mw": 100.09
+  },
+  {
+    "acronym": "CaO",
+    "name": "Calcia (Lime)",
+    "density": 3.35,
+    "ri": 1.838,
+    "mw": 56.08
+  },
+  {
+    "acronym": "CaTiO3",
+    "name": "Calcium Titanate (Perovskite)",
+    "density": 4.03,
+    "ri": 2.35,
+    "mw": 135.94
+  },
+  {
+    "acronym": "CCTO",
+    "name": "CaCu3Ti4O12",
+    "density": 5.05,
+    "ri": 2.1,
+    "mw": null
+  },
+  {
+    "acronym": "CeO2",
+    "name": "Ceria",
+    "density": 7.22,
+    "ri": 2.35,
+    "mw": 172.11
+  },
+  {
+    "acronym": "Citric acid",
+    "name": "Citric Acid (2-Hydroxypropane-1,2,3-tricarboxylic Acid)",
+    "density": 1.665,
+    "ri": 1.498,
+    "mw": 192.12
+  },
+  {
+    "acronym": "Cordierite",
+    "name": "Mg2Al4Si5O18",
+    "density": 2.51,
+    "ri": 1.54,
+    "mw": 584.96
+  },
+  {
+    "acronym": "CQ",
+    "name": "Camphorquinone",
+    "density": 0.982,
+    "ri": null,
+    "mw": 166.17
+  },
+  {
+    "acronym": "Cr2O3",
+    "name": "Chromia (Eskolaite)",
+    "density": 5.22,
+    "ri": 2.55,
+    "mw": 151.99
+  },
+  {
+    "acronym": "CTFA",
+    "name": "Cyclic Trimethylolpropane Formal Acrylate",
+    "density": 1.03,
+    "ri": 1.46,
+    "mw": 200.23
+  },
+  {
+    "acronym": "Cu",
+    "name": "Copper",
+    "density": 8.96,
+    "ri": null,
+    "mw": 63.55
+  },
+  {
+    "acronym": "Cyclohexanone",
+    "name": "",
+    "density": 0.947,
+    "ri": 1.451,
+    "mw": 98.14
+  },
+  {
+    "acronym": "Darvan 7-N",
+    "name": "Sodium Polymethacrylate, 25% Aq.",
+    "density": 1.16,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Darvan 811",
+    "name": "Sodium Polyacrylate, 43% Aq.",
+    "density": 1.3,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Darvan 821-A",
+    "name": "Ammonium Polyacrylate, 40% Aq.",
+    "density": 1.16,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Darvan C-N",
+    "name": "Ammonium Polymethacrylate, 25% Aq.",
+    "density": 1.12,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DCPA",
+    "name": "Dicyclopentanyl Acrylate",
+    "density": 1.06,
+    "ri": 1.49,
+    "mw": 204.27
+  },
+  {
+    "acronym": "DEAP",
+    "name": "2,2-Diethoxyacetophenone",
+    "density": 1.02,
+    "ri": null,
+    "mw": 196.24
+  },
+  {
+    "acronym": "DETX",
+    "name": "2,4-Diethylthioxanthone",
+    "density": 1.178,
+    "ri": 1.631,
+    "mw": 268.37
+  },
+  {
+    "acronym": "DINP",
+    "name": "Diisononyl Phthalate",
+    "density": 0.97,
+    "ri": 1.486,
+    "mw": 418.61
+  },
+  {
+    "acronym": "DISPERBYK-103",
+    "name": "Polyester Phosphoric Acid Ester Salt",
+    "density": 1.06,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-108",
+    "name": "Hydroxy-functional Carboxylic Ester with Pigment-affinic Groups",
+    "density": 0.94,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-111",
+    "name": "Phosphoric Acid Ester",
+    "density": 1.16,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-118",
+    "name": "Polymeric Phosphoric Acid Ester",
+    "density": 1.07,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-145",
+    "name": "Phosphoric Ester Copolymer",
+    "density": 1.07,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-168",
+    "name": "Modified Polyurethane",
+    "density": 1.1,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-180",
+    "name": "Alkylolammonium Salt of Acidic Copolymer",
+    "density": 1.08,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-2013",
+    "name": "Styrene-maleic Anhydride Copolymer",
+    "density": 1.1,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DISPERBYK-2030",
+    "name": "High Molecular Weight Copolymer",
+    "density": 1.04,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "DiTMPTA",
+    "name": "Ditrimethylolpropane Tetraacrylate",
+    "density": 1.11,
+    "ri": 1.476,
+    "mw": 466.52
+  },
+  {
+    "acronym": "DMAA",
+    "name": "Dimethylacrylamide",
+    "density": 1.056,
+    "ri": 1.472,
+    "mw": 99.13
+  },
+  {
+    "acronym": "DMSO",
+    "name": "Dimethyl Sulfoxide",
+    "density": 1.1,
+    "ri": 1.479,
+    "mw": 78.13
+  },
+  {
+    "acronym": "DPGDA",
+    "name": "Dipropylene Glycol Diacrylate",
+    "density": 1.055,
+    "ri": 1.45,
+    "mw": 242.27
+  },
+  {
+    "acronym": "DPHA",
+    "name": "Dipentaerythritol Hexaacrylate",
+    "density": 1.174,
+    "ri": 1.489,
+    "mw": 578.57
+  },
+  {
+    "acronym": "Dy2O3",
+    "name": "Dysprosia",
+    "density": 7.8,
+    "ri": 1.98,
+    "mw": 372.99
+  },
+  {
+    "acronym": "EGDA",
+    "name": "Ethylene Glycol Diacetate",
+    "density": 1.104,
+    "ri": 1.415,
+    "mw": 146.14
+  },
+  {
+    "acronym": "EHA",
+    "name": "2-Ethylhexyl 4-dimethylaminobenzoate",
+    "density": 1.01,
+    "ri": null,
+    "mw": 277.4
+  },
+  {
+    "acronym": "EMK",
+    "name": "4,4'-Bis(diethylamino)benzophenone",
+    "density": 1.06,
+    "ri": null,
+    "mw": 268.36
+  },
+  {
+    "acronym": "EOEOEA",
+    "name": "2-(2-Ethoxyethoxy)ethyl Acrylate",
+    "density": 1.01,
+    "ri": 1.437,
+    "mw": 188.22
+  },
+  {
+    "acronym": "EPD",
+    "name": "Ethyl 4-dimethylaminobenzoate",
+    "density": 1.095,
+    "ri": null,
+    "mw": 193.24
+  },
+  {
+    "acronym": "Er2O3",
+    "name": "Erbia",
+    "density": 8.64,
+    "ri": 1.99,
+    "mw": 382.52
+  },
+  {
+    "acronym": "Ethanol",
+    "name": "",
+    "density": 0.789,
+    "ri": 1.361,
+    "mw": 46.07
+  },
+  {
+    "acronym": "F127 10 wt.% in DIW",
+    "name": "",
+    "density": 1.006,
+    "ri": 1.335,
+    "mw": null
+  },
+  {
+    "acronym": "F127 15 wt.% in DIW",
+    "name": "",
+    "density": 1.009,
+    "ri": 1.336,
+    "mw": null
+  },
+  {
+    "acronym": "F127 20 wt.% in DIW",
+    "name": "",
+    "density": 1.011,
+    "ri": 1.337,
+    "mw": null
+  },
+  {
+    "acronym": "F127 25 wt.% in DIW",
+    "name": "",
+    "density": 1.014,
+    "ri": 1.338,
+    "mw": null
+  },
+  {
+    "acronym": "F127 30 wt.% in DIW",
+    "name": "",
+    "density": 1.017,
+    "ri": 1.339,
+    "mw": null
+  },
+  {
+    "acronym": "F127 5 wt.% in DIW",
+    "name": "",
+    "density": 1.003,
+    "ri": 1.334,
+    "mw": null
+  },
+  {
+    "acronym": "Fe",
+    "name": "Iron (\u03b1-Ferrite)",
+    "density": 7.874,
+    "ri": null,
+    "mw": 55.85
+  },
+  {
+    "acronym": "Glycerol",
+    "name": "",
+    "density": 1.261,
+    "ri": 1.474,
+    "mw": 92.09
+  },
+  {
+    "acronym": "GPTA",
+    "name": "Glycerol Propoxylate Triacrylate",
+    "density": 1.107,
+    "ri": 1.461,
+    "mw": 428.46
+  },
+  {
+    "acronym": "HAp",
+    "name": "Hydroxyapatite, Ca10(PO4)6(OH)2",
+    "density": 3.156,
+    "ri": 1.65,
+    "mw": 502.31
+  },
+  {
+    "acronym": "HCPK",
+    "name": "1-Hydroxycyclohexyl Phenyl Ketone",
+    "density": 1.17,
+    "ri": null,
+    "mw": 204.27
+  },
+  {
+    "acronym": "HDDA",
+    "name": "1,6-Hexanediol Diacrylate",
+    "density": 1.01,
+    "ri": 1.456,
+    "mw": 226.27
+  },
+  {
+    "acronym": "HDDA 50% / TMP(EO)3TA 50%",
+    "name": "",
+    "density": 1.0576,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "HMPP",
+    "name": "2-Hydroxy-2-methylpropiophenone",
+    "density": 1.073,
+    "ri": null,
+    "mw": 164.2
+  },
+  {
+    "acronym": "IBOA",
+    "name": "Isobornyl Acrylate",
+    "density": 0.986,
+    "ri": 1.474,
+    "mw": 208.3
+  },
+  {
+    "acronym": "IBOMA",
+    "name": "Isobornyl Methacrylate",
+    "density": 0.988,
+    "ri": 1.477,
+    "mw": 222.32
+  },
+  {
+    "acronym": "IDA",
+    "name": "Isodecyl Acrylate",
+    "density": 0.884,
+    "ri": 1.44,
+    "mw": 212.33
+  },
+  {
+    "acronym": "Inconel 600",
+    "name": "Ni\u2013Cr16\u2013Fe8 Superalloy",
+    "density": 8.47,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Inconel 625",
+    "name": "Ni\u2013Cr22\u2013Mo9\u2013Nb3.5 Superalloy",
+    "density": 8.44,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Inconel 718",
+    "name": "Ni\u2013Cr19\u2013Nb5\u2013Mo3 Precipitation-hardened Superalloy",
+    "density": 8.19,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Inconel X-750",
+    "name": "Ni\u2013Cr15\u2013Fe7\u2013Ti2.5\u2013Al0.7 Age-hardened Superalloy",
+    "density": 8.28,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Irg2959",
+    "name": "2-Hydroxy-4'-(2-hydroxyethoxy)-2-methylpropiophenone",
+    "density": 1.183,
+    "ri": null,
+    "mw": 224.25
+  },
+  {
+    "acronym": "Irg784",
+    "name": "Bis(eta5-cyclopentadienyl)bis(2,6-difluorophenyl)titanium",
+    "density": 1.54,
+    "ri": null,
+    "mw": 494.37
+  },
+  {
+    "acronym": "Isopropanol",
+    "name": "Isopropyl Alcohol",
+    "density": 0.786,
+    "ri": 1.377,
+    "mw": 60.1
+  },
+  {
+    "acronym": "ITX",
+    "name": "2-Isopropylthioxanthone",
+    "density": 1.2,
+    "ri": null,
+    "mw": 254.33
+  },
+  {
+    "acronym": "KH-570",
+    "name": "3-Methacryloxypropyltrimethoxysilane",
+    "density": 1.045,
+    "ri": 1.429,
+    "mw": 248.36
+  },
+  {
+    "acronym": "KNN",
+    "name": "K0.5Na0.5NbO3",
+    "density": 4.49,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "LA",
+    "name": "Lauryl Acrylate",
+    "density": 0.882,
+    "ri": 1.442,
+    "mw": 240.38
+  },
+  {
+    "acronym": "La2O3",
+    "name": "Lanthana",
+    "density": 6.51,
+    "ri": 1.99,
+    "mw": 325.81
+  },
+  {
+    "acronym": "LAGP",
+    "name": "Li1.5Al0.5Ge1.5(PO4)3",
+    "density": 3.43,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "LAP",
+    "name": "Lithium Phenyl-2,4,6-trimethylbenzoylphosphinate",
+    "density": 1.3,
+    "ri": null,
+    "mw": 286.24
+  },
+  {
+    "acronym": "LATP",
+    "name": "Li1.3Al0.3Ti1.7(PO4)3",
+    "density": 2.93,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "LiFePO4",
+    "name": "Lithium Iron Phosphate (Triphylite)",
+    "density": 3.6,
+    "ri": 1.68,
+    "mw": 157.76
+  },
+  {
+    "acronym": "LiTFSI",
+    "name": "",
+    "density": 1.33,
+    "ri": null,
+    "mw": 287.09
+  },
+  {
+    "acronym": "MBB",
+    "name": "Methyl 2-benzoylbenzoate",
+    "density": 1.22,
+    "ri": null,
+    "mw": 240.26
+  },
+  {
+    "acronym": "MBF",
+    "name": "Methyl Benzoylformate",
+    "density": 1.19,
+    "ri": null,
+    "mw": 164.16
+  },
+  {
+    "acronym": "MDEA",
+    "name": "N-Methyldiethanolamine",
+    "density": 1.038,
+    "ri": 1.468,
+    "mw": 119.16
+  },
+  {
+    "acronym": "Mg2TiO4",
+    "name": "Magnesium Orthotitanate",
+    "density": 3.54,
+    "ri": 1.95,
+    "mw": 160.49
+  },
+  {
+    "acronym": "MgAl2O4",
+    "name": "Spinel (MgAl2O4)",
+    "density": 3.58,
+    "ri": 1.719,
+    "mw": 142.27
+  },
+  {
+    "acronym": "MgO",
+    "name": "Magnesia (Periclase)",
+    "density": 3.58,
+    "ri": 1.736,
+    "mw": 40.3
+  },
+  {
+    "acronym": "MgTi2O5",
+    "name": "Karrooite (Pseudobrookite Structure)",
+    "density": 3.69,
+    "ri": null,
+    "mw": 200.49
+  },
+  {
+    "acronym": "MgTiO3",
+    "name": "Magnesium Titanate (Geikielite)",
+    "density": 3.89,
+    "ri": 1.94,
+    "mw": 120.19
+  },
+  {
+    "acronym": "Mineral Oil",
+    "name": "Mineral Oil, Light Grade",
+    "density": 0.86,
+    "ri": 1.47,
+    "mw": null
+  },
+  {
+    "acronym": "MPDDA",
+    "name": "2-Methyl-1,3-propanediol Diacrylate",
+    "density": 1.02,
+    "ri": 1.454,
+    "mw": 226.27
+  },
+  {
+    "acronym": "Mullite",
+    "name": "3Al2O3\u00b72SiO2",
+    "density": 3.17,
+    "ri": 1.64,
+    "mw": 426.05
+  },
+  {
+    "acronym": "Na2CO3",
+    "name": "Sodium Carbonate",
+    "density": 2.54,
+    "ri": 1.535,
+    "mw": 105.99
+  },
+  {
+    "acronym": "Na2Ti3O7",
+    "name": "Sodium Trititanate",
+    "density": 3.43,
+    "ri": null,
+    "mw": 301.71
+  },
+  {
+    "acronym": "NASICON",
+    "name": "Na3Zr2Si2PO12",
+    "density": 3.29,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Nb2O5",
+    "name": "Niobium Pentoxide",
+    "density": 4.55,
+    "ri": 2.19,
+    "mw": 265.81
+  },
+  {
+    "acronym": "Ni",
+    "name": "Nickel",
+    "density": 8.908,
+    "ri": null,
+    "mw": 58.69
+  },
+  {
+    "acronym": "NP(EO)4A",
+    "name": "Nonylphenol Ethoxylate (4) Acrylate",
+    "density": 1.065,
+    "ri": 1.494,
+    "mw": 450.58
+  },
+  {
+    "acronym": "NP(EO)8A",
+    "name": "Nonylphenol Ethoxylate (8) Acrylate",
+    "density": 1.08,
+    "ri": 1.489,
+    "mw": 626.82
+  },
+  {
+    "acronym": "NPG(PO)2DA",
+    "name": "Neopentyl Glycol Propoxylate Diacrylate",
+    "density": 1.02,
+    "ri": 1.446,
+    "mw": 328.4
+  },
+  {
+    "acronym": "NVP",
+    "name": "N-Vinylpyrrolidone (1-Vinyl-2-Pyrrolidinone)",
+    "density": 1.04,
+    "ri": 1.512,
+    "mw": 111.14
+  },
+  {
+    "acronym": "Oleic acid",
+    "name": "(9Z)-Octadec-9-enoic Acid",
+    "density": 0.895,
+    "ri": 1.461,
+    "mw": 282.46
+  },
+  {
+    "acronym": "PBZ",
+    "name": "4-Phenylbenzophenone",
+    "density": 1.2,
+    "ri": null,
+    "mw": 258.32
+  },
+  {
+    "acronym": "PEG200",
+    "name": "Polyethylene Glycol 200",
+    "density": 1.124,
+    "ri": 1.459,
+    "mw": 200.0
+  },
+  {
+    "acronym": "PEG200DA",
+    "name": "Polyethylene Glycol 200 Diacrylate",
+    "density": 1.11,
+    "ri": 1.464,
+    "mw": 308.33
+  },
+  {
+    "acronym": "PEG200DMA",
+    "name": "Polyethylene Glycol 200 Dimethacrylate",
+    "density": 1.1,
+    "ri": 1.463,
+    "mw": 336.38
+  },
+  {
+    "acronym": "PEG250DA",
+    "name": "Polyethylene Glycol 250 Diacrylate",
+    "density": 1.12,
+    "ri": 1.47,
+    "mw": 250.0
+  },
+  {
+    "acronym": "PEG300DA",
+    "name": "Polyethylene Glycol 300 Diacrylate",
+    "density": 1.115,
+    "ri": 1.466,
+    "mw": 408.44
+  },
+  {
+    "acronym": "PEG400",
+    "name": "Polyethylene Glycol 400",
+    "density": 1.128,
+    "ri": 1.465,
+    "mw": 400.0
+  },
+  {
+    "acronym": "PEG400DA",
+    "name": "Polyethylene Glycol 400 Diacrylate",
+    "density": 1.12,
+    "ri": 1.466,
+    "mw": 508.55
+  },
+  {
+    "acronym": "PEG400DMA",
+    "name": "Polyethylene Glycol 400 Dimethacrylate",
+    "density": 1.11,
+    "ri": 1.466,
+    "mw": 536.61
+  },
+  {
+    "acronym": "PEG575DA",
+    "name": "Polyethylene Glycol 575 Diacrylate",
+    "density": 1.12,
+    "ri": 1.468,
+    "mw": 575.0
+  },
+  {
+    "acronym": "PEG600",
+    "name": "Polyethylene Glycol 600",
+    "density": 1.126,
+    "ri": 1.467,
+    "mw": 600.0
+  },
+  {
+    "acronym": "PEG600DA",
+    "name": "Polyethylene Glycol 600 Diacrylate",
+    "density": 1.13,
+    "ri": 1.468,
+    "mw": 708.77
+  },
+  {
+    "acronym": "PETA",
+    "name": "Pentaerythritol Triacrylate",
+    "density": 1.174,
+    "ri": 1.48,
+    "mw": 298.29
+  },
+  {
+    "acronym": "PH(EO)4A",
+    "name": "Phenol Ethoxylate (4) Acrylate",
+    "density": 1.095,
+    "ri": 1.5,
+    "mw": 324.37
+  },
+  {
+    "acronym": "PHEA",
+    "name": "Phenoxyethyl Acrylate",
+    "density": 1.107,
+    "ri": 1.517,
+    "mw": 192.21
+  },
+  {
+    "acronym": "PMP",
+    "name": "2-Methyl-1-(4-methylthiophenyl)-2-morpholinopropan-1-one",
+    "density": 1.18,
+    "ri": null,
+    "mw": 279.36
+  },
+  {
+    "acronym": "Polyacrylic acid",
+    "name": "Poly(acrylic acid)",
+    "density": 1.15,
+    "ri": 1.527,
+    "mw": null
+  },
+  {
+    "acronym": "Polyethyleneimine",
+    "name": "Poly(ethyleneimine), Branched",
+    "density": 1.03,
+    "ri": 1.55,
+    "mw": null
+  },
+  {
+    "acronym": "PPG-200",
+    "name": "Polypropylene Glycol 200",
+    "density": 1.05,
+    "ri": 1.451,
+    "mw": 200.0
+  },
+  {
+    "acronym": "PPG-400",
+    "name": "Polypropylene Glycol 400",
+    "density": 1.036,
+    "ri": 1.45,
+    "mw": 400.0
+  },
+  {
+    "acronym": "PPTTA",
+    "name": "Pentaerythritol Propoxylate Tetraacrylate",
+    "density": 1.12,
+    "ri": 1.471,
+    "mw": 572.62
+  },
+  {
+    "acronym": "Propylene Carbonate",
+    "name": "4-Methyl-1,3-dioxolan-2-one",
+    "density": 1.205,
+    "ri": 1.421,
+    "mw": 102.09
+  },
+  {
+    "acronym": "PVP",
+    "name": "Polyvinylpyrrolidone (Povidone)",
+    "density": 1.2,
+    "ri": 1.53,
+    "mw": null
+  },
+  {
+    "acronym": "PZT",
+    "name": "PbZr0.52Ti0.48O3, MPB",
+    "density": 7.78,
+    "ri": 2.5,
+    "mw": null
+  },
+  {
+    "acronym": "Sc2O3",
+    "name": "Scandia",
+    "density": 3.84,
+    "ri": 1.95,
+    "mw": 137.92
+  },
+  {
+    "acronym": "Si3N4",
+    "name": "Silicon Nitride (\u03b2-Si3N4)",
+    "density": 3.44,
+    "ri": 2.02,
+    "mw": 140.28
+  },
+  {
+    "acronym": "SiC",
+    "name": "Silicon Carbide (\u03b1-SiC)",
+    "density": 3.21,
+    "ri": 2.65,
+    "mw": 40.1
+  },
+  {
+    "acronym": "SiO2",
+    "name": "Silica (Amorphous)",
+    "density": 2.65,
+    "ri": 1.459,
+    "mw": 60.08
+  },
+  {
+    "acronym": "SLS",
+    "name": "Sodium Lauryl Sulfate (Sodium Dodecyl Sulfate)",
+    "density": 1.01,
+    "ri": null,
+    "mw": 288.38
+  },
+  {
+    "acronym": "Sodium \u03b2-alumina",
+    "name": "NaAl11O17, \u03b2-Alumina Solid Electrolyte",
+    "density": 3.26,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Sodium \u03b2\u2033-alumina",
+    "name": "Na2O\u00b75.33Al2O3, \u03b2\u2033-Alumina",
+    "density": 3.27,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "SrAl2O4",
+    "name": "Strontium Monoaluminate",
+    "density": 3.5,
+    "ri": 1.72,
+    "mw": 205.58
+  },
+  {
+    "acronym": "SrTiO3",
+    "name": "Strontium Titanate (Tausonite)",
+    "density": 5.12,
+    "ri": 2.41,
+    "mw": 183.49
+  },
+  {
+    "acronym": "Stearic acid",
+    "name": "Octadecanoic Acid",
+    "density": 0.847,
+    "ri": 1.43,
+    "mw": 284.48
+  },
+  {
+    "acronym": "TCDDA",
+    "name": "Tricyclodecane Dimethanol Diacrylate",
+    "density": 1.1,
+    "ri": 1.503,
+    "mw": 304.38
+  },
+  {
+    "acronym": "TCP",
+    "name": "Tricalcium Phosphate, Ca3(PO4)2",
+    "density": 3.14,
+    "ri": 1.63,
+    "mw": 310.18
+  },
+  {
+    "acronym": "TEGDMA",
+    "name": "Triethylene Glycol Dimethacrylate",
+    "density": 1.075,
+    "ri": 1.461,
+    "mw": 286.32
+  },
+  {
+    "acronym": "TEGO Foamex N",
+    "name": "Polydimethylsiloxane Defoamer (contains Silica)",
+    "density": 1.0,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "Ti",
+    "name": "Titanium, Commercially Pure",
+    "density": 4.506,
+    "ri": null,
+    "mw": 47.87
+  },
+  {
+    "acronym": "TiO2",
+    "name": "Titania (Rutile)",
+    "density": 4.23,
+    "ri": 2.49,
+    "mw": 79.87
+  },
+  {
+    "acronym": "TMCHA",
+    "name": "3,3,5-Trimethylcyclohexyl Acrylate",
+    "density": 1.003,
+    "ri": 1.453,
+    "mw": 196.29
+  },
+  {
+    "acronym": "TMP(EO)15TA",
+    "name": "Trimethylolpropane Ethoxylate (15) Triacrylate",
+    "density": 1.1,
+    "ri": 1.471,
+    "mw": 956.13
+  },
+  {
+    "acronym": "TMP(EO)3TA",
+    "name": "Trimethylolpropane Ethoxylate (3) Triacrylate",
+    "density": 1.11,
+    "ri": 1.469,
+    "mw": 428.46
+  },
+  {
+    "acronym": "TMP(EO)6TA",
+    "name": "Trimethylolpropane Ethoxylate (6) Triacrylate",
+    "density": 1.09,
+    "ri": 1.47,
+    "mw": 560.62
+  },
+  {
+    "acronym": "TMP(EO)9TA",
+    "name": "Trimethylolpropane Ethoxylate (9) Triacrylate",
+    "density": 1.095,
+    "ri": 1.469,
+    "mw": 692.79
+  },
+  {
+    "acronym": "TMP(PO)3TA",
+    "name": "Trimethylolpropane Propoxylate Triacrylate",
+    "density": 1.06,
+    "ri": 1.459,
+    "mw": 470.55
+  },
+  {
+    "acronym": "TMPTA",
+    "name": "Trimethylolpropane Triacrylate",
+    "density": 1.109,
+    "ri": 1.472,
+    "mw": 296.32
+  },
+  {
+    "acronym": "Toluene",
+    "name": "",
+    "density": 0.867,
+    "ri": 1.497,
+    "mw": 92.14
+  },
+  {
+    "acronym": "TPGDA",
+    "name": "Tripropylene Glycol Diacrylate",
+    "density": 1.051,
+    "ri": 1.45,
+    "mw": 300.35
+  },
+  {
+    "acronym": "TPO",
+    "name": "2,4,6-Trimethylbenzoyldiphenylphosphine Oxide",
+    "density": 1.218,
+    "ri": null,
+    "mw": 348.37
+  },
+  {
+    "acronym": "TPO-L",
+    "name": "Ethyl(2,4,6-trimethylbenzoyl)phenylphosphinate",
+    "density": 1.14,
+    "ri": null,
+    "mw": 316.32
+  },
+  {
+    "acronym": "Triton X-100",
+    "name": "",
+    "density": 1.065,
+    "ri": 1.49,
+    "mw": 647.0
+  },
+  {
+    "acronym": "VMOX",
+    "name": "Vinyl Methyl Oxazolidinone (3-Ethenyl-5-Methyl-1,3-Oxazolidin-2-One)",
+    "density": 1.085,
+    "ri": null,
+    "mw": 127.14
+  },
+  {
+    "acronym": "Water",
+    "name": "H2O",
+    "density": 1.0,
+    "ri": 1.333,
+    "mw": 18.02
+  },
+  {
+    "acronym": "Y2O3",
+    "name": "Yttria",
+    "density": 5.01,
+    "ri": 1.92,
+    "mw": 225.81
+  },
+  {
+    "acronym": "Y3Al5O12",
+    "name": "Yttrium Aluminium Garnet",
+    "density": 4.55,
+    "ri": 1.83,
+    "mw": 593.7
+  },
+  {
+    "acronym": "ZrO2",
+    "name": "Zirconium Dioxide (Monoclinic, Baddeleyite)",
+    "density": 5.68,
+    "ri": 2.13,
+    "mw": 123.22
+  },
+  {
+    "acronym": "ZTA 70/30",
+    "name": "70vol%Al2O3\u201330vol%ZrO2",
+    "density": 4.601,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ZTA 75/25",
+    "name": "75vol%Al2O3\u201325vol%ZrO2",
+    "density": 4.497,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ZTA 80/20",
+    "name": "80vol%Al2O3\u201320vol%ZrO2",
+    "density": 4.394,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ZTA 83/17 \u2013 BIOLOX delta type",
+    "name": "83vol%Al2O3\u201317vol%ZrO2 (BIOLOX Delta type)",
+    "density": 4.332,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ZTA 85/15",
+    "name": "85vol%Al2O3\u201315vol%ZrO2",
+    "density": 4.29,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ZTA 90/10",
+    "name": "90vol%Al2O3\u201310vol%ZrO2",
+    "density": 4.187,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "ZTA 95/5",
+    "name": "95vol%Al2O3\u20135vol%ZrO2",
+    "density": 4.083,
+    "ri": null,
+    "mw": null
+  },
+  {
+    "acronym": "\u03b1-Bi2Mo3O12",
+    "name": "\u03b1-Phase Bismuth Molybdate",
+    "density": 5.89,
+    "ri": null,
+    "mw": 897.77
+  },
+  {
+    "acronym": "\u03b2-Alanine",
+    "name": "Beta-Alanine (3-Aminopropanoic Acid)",
+    "density": 1.437,
+    "ri": 1.465,
+    "mw": 89.09
+  },
+  {
+    "acronym": "\u03b2-Bi2Mo2O9",
+    "name": "\u03b2-Phase Bismuth Molybdate",
+    "density": 6.11,
+    "ri": null,
+    "mw": 705.77
+  },
+  {
+    "acronym": "\u03b3-Bi2MoO6",
+    "name": "\u03b3-Phase Bismuth Molybdate",
+    "density": 7.85,
+    "ri": null,
+    "mw": 513.77
+  }
+]
