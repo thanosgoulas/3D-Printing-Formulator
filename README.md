@@ -68,8 +68,7 @@ Additional features include:
 - Bug fixes
 - Blend breakdown tooltip — hover over a blend component after Solve to see individual masses
 - Merge DB — safely add new default materials without affecting custom entries
-- PPG-200 added to the default database
-- PPG-400 density and refractive index corrected
+- Materials added to the default database
 
 See [WHATS_NEW.txt](WHATS_NEW.txt) for full details.
 
