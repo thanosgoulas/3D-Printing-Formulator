@@ -145,7 +145,7 @@ In summary:
 
 If you use this software in your research, please cite it as:
 
-Goulas, A. (2026). The 3D Printing Formulator (v1.1).
+Goulas, A. (2026). The 3D Printing Formulator.
 [Software]. https://doi.org/10.5281/zenodo.19321774
 
 ---
