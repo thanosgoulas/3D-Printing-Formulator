@@ -8,7 +8,7 @@
 
 > **Free to download and use for academic and non-commercial research purposes.**
 
-📦 **[Download The 3D Printing Formulator v1.1](https://doi.org/10.5281/zenodo.19321774)**
+📦 **[Download The 3D Printing Formulator v1.1](https://doi.org/10.5281/zenodo.19558281)**
 
 > **Installation:** No installation required. Download the `.zip` file,
 > extract it, and run `3D Printing Formulator.exe` directly.
@@ -69,6 +69,7 @@ Additional features include:
 - Blend breakdown tooltip — hover over a blend component after Solve to see individual masses
 - Merge DB — safely add new default materials without affecting custom entries
 - Materials added to the default database
+- Materials' properties corrected
 
 See [WHATS_NEW.txt](WHATS_NEW.txt) for full details.
 
@@ -120,7 +121,7 @@ Your custom materials database is preserved between versions and will
 
 To receive new default materials added in v1.1:
 
-1. Download `default_materials_v1.1.json` from the release assets
+1. Download `materials_database_april_2026.json` from the release assets
 2. Open the app → click **🗃 Materials DB** in the sidebar
 3. Click **🔀 Merge DB** and select the downloaded file
 4. The app adds only new entries — your custom materials are never modified
@@ -145,8 +146,8 @@ In summary:
 
 If you use this software in your research, please cite it as:
 
-Goulas, A. (2026). The 3D Printing Formulator.
-[Software]. https://doi.org/10.5281/zenodo.19321774
+Goulas, A. (2026). The 3D Printing Formulator (v1.1).
+[Software]. https://doi.org/10.5281/zenodo.19558281
 
 ---
 
