@@ -1,0 +1,27 @@
+THE 3D PRINTING FORMULATOR — What's New in v1.1
+================================================
+
+1. Bug fixes
+   Various bug fixes and stability improvements.
+
+2. Blend breakdown tooltip
+   After clicking Solve or Calculate, hovering over a blend
+   component in the results table now shows the individual
+   constituent masses calculated from the total batch mass.
+
+3. Merge DB
+   A new Merge DB button has been added to the Materials
+   Database editor. Use it when upgrading to a new version
+   to add new default materials without affecting your
+   existing or custom database entries.
+
+4. Corrected material properties
+   - PPG-400: density corrected to 1.010 g/cm³,
+     refractive index corrected to 1.447
+
+5. New materials added
+
+================================================
+Dr Athanasios (Thanos) Goulas
+thanosgoulas@outlook.com
+https://doi.org/10.5281/zenodo.19321774
