@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "The 3D Printing Formulator"
+version: "1.1"
+date-released: "2026"
+authors:
+  - family-names: Goulas
+    given-names: Athanasios
+    alias: Thanos
+    email: thanosgoulas@outlook.com
+    orcid: "https://orcid.org/0000-0002-5478-8117"
+abstract: >
+  A standalone desktop application for designing ceramic resin
+  and paste formulations for additive manufacturing. Supports
+  forward formulation (amounts to composition) and inverse
+  solving (target solids loading to amounts), with a built-in
+  editable materials database, PDF export, and blend support.
+keywords:
+  - 3D printing
+  - additive manufacturing
+  - ceramic
+  - formulation
+  - DLP
+  - vat photopolymerisation
+  - resin
+  - paste
+  - inverse solver
+license: "LicenseRef-proprietary"
+repository-code: "https://github.com/thanosgoulas/3D-Printing-Formulator"
+doi: "10.5281/zenodo.19558281"
+url: "https://doi.org/10.5281/zenodo.19558281"
