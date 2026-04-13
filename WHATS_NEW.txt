@@ -16,8 +16,6 @@ THE 3D PRINTING FORMULATOR — What's New in v1.1
    existing or custom database entries.
 
 4. Corrected material properties
-   - PPG-400: density corrected to 1.010 g/cm³,
-     refractive index corrected to 1.447
 
 5. New materials added
 
